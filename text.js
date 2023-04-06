@@ -38,5 +38,5 @@
   clearInterval.addEventListener("click", function (e) {
     screen.value = "";
     // console.log("Clear button clicked")
-  });
-})();
+  })
+})()
